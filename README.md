@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nurhat!
+### Hi there, I'm Jean!
 
 ### 👨‍💻 About me
 - 🔭 I’m currently working on cool project in Zapis LLP.
